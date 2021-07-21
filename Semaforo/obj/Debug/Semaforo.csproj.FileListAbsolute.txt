@@ -1,0 +1,66 @@
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.csprojAssemblyReference.cache
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.Form1.resources
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\bin\Debug\M2Mqtt.Net.dll
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\raulg\OneDrive\Escritorio\Curso ITLA 2021-C1\IOT\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CopyComplete
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\FireSharp.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.App.config
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.csprojAssemblyReference.cache
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.Form1.resources
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CopyComplete
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\Luis Pascual\Downloads\Telegram Desktop\semaforo\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\FireSharp.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\M2Mqtt.Net.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.App.config
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.Semaforo.resources
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CopyComplete
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\USER\OneDrive\Desktop\IoT\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
